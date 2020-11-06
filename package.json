@@ -1,0 +1,9 @@
+{
+    "name" : "jsoft",
+    "description" : "JavaScript's functional programming helper library.",
+    "homepage" : "https://jsoftdevelopers.herokuapp.com/",
+    "author" : "Janitha Chamara",
+    "repository" : {"type": "git", "url": "git:https://git.heroku.com/jsoftdevelopers.git"},
+    "main" : "server.js",
+    "version" : "1.1.0"
+  }
