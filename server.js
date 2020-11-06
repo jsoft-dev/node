@@ -4,4 +4,4 @@ var ser = http.createServer(function (req, res) {
     res.write("ADDOOOOO WEDDDAAAA.....");
     res.end();
 });
-ser.listen(80);
+ser.listen(8080);
